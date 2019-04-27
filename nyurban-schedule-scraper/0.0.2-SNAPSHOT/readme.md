@@ -2,7 +2,7 @@
 Scrape calendar events from NYUrban website and publish to Google calendar
 
 # Usage
-*This requires the *auth* directory to be alongside the .exe file - this directory contains the google app info so it can login*
+*This requires the *auth* directory to be alongside the .exe file - this directory contains the google app info for login*
 urban_schedule_script.exe -u <username> -p <password> [-c <calendarName>] -t... <teamId>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-u --username  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Login name for nyurban website  
